@@ -1,0 +1,48 @@
+==========================================
+        21 QUESTIONS - GAME SHEET
+==========================================
+
+PLAYER (the one asking questions): ____________________
+HOST   (the one with the secret):  ____________________
+DATE:                              ____________________
+
+
+SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
+
+
+------------------------------------------
+              THE QUESTIONS
+------------------------------------------
+Write your yes/no question on each line, then check the host's answer.
+
+ 1. A: [ ] Yes  [ ] No   Q: 
+ 2. A: [ ] Yes  [ ] No   Q: 
+ 3. A: [ ] Yes  [ ] No   Q: 
+ 4. A: [ ] Yes  [ ] No   Q: 
+ 5. A: [ ] Yes  [ ] No   Q: 
+ 6. A: [ ] Yes  [ ] No   Q: 
+ 7. A: [ ] Yes  [ ] No   Q: 
+ 8. A: [ ] Yes  [ ] No   Q: 
+ 9. A: [ ] Yes  [ ] No   Q: 
+10. A: [ ] Yes  [ ] No   Q: 
+11. A: [ ] Yes  [ ] No   Q: 
+12. A: [ ] Yes  [ ] No   Q: 
+13. A: [ ] Yes  [ ] No   Q: 
+14. A: [ ] Yes  [ ] No   Q: 
+15. A: [ ] Yes  [ ] No   Q: 
+16. A: [ ] Yes  [ ] No   Q: 
+17. A: [ ] Yes  [ ] No   Q: 
+18. A: [ ] Yes  [ ] No   Q: 
+19. A: [ ] Yes  [ ] No   Q: 
+20. A: [ ] Yes  [ ] No   Q: 
+21. A: [ ] Yes  [ ] No   Q: 
+
+
+------------------------------------------
+              FINAL GUESS
+------------------------------------------
+My guess is: ______________________________________
+
+RESULT:  [ ] Correct!   [ ] Incorrect
+
+THE SECRET WAS (host reveals): ____________________________
