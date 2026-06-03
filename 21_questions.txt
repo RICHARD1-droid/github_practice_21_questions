@@ -2,9 +2,9 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions): ____________________
+PLAYER (the one asking questions): ____Richard________________
 HOST   (the one with the secret):  ____________________
-DATE:                              ____________________
+DATE:                              _____6/3/2026_______________
 
 
 SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
