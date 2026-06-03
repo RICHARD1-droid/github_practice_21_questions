@@ -3,11 +3,11 @@
 ==========================================
 
 PLAYER (the one asking questions): ____Richard________________
-HOST   (the one with the secret):  ____________________
+HOST   (the one with the secret):  ____Ramanpreet________________
 DATE:                              _____6/3/2026_______________
 
 
-SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
+SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [x ] Animal
 
 
 ------------------------------------------
